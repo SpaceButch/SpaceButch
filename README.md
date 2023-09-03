@@ -1,0 +1,4 @@
+- Hello, I'm Kara
+- Diving headfirst into learning to code more seriously after years of forcing excel and/or Minecraft command blocks to do things they were never meant for, plus one physics course on computer modelling of molecular dynamics.
+- My current project is a probably somewhat overambitious one, the repository for it will probably be up soon if you want to go take a look at it.
+- I'm also still learning how github works too, so things are likely to be a bit of a mess for the forseeable future
